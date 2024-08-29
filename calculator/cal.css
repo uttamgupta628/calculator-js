@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.259);
+}
+h1{
+    color: white;
+}
+.container{
+    display: inline-block;
+    background-color:#414141 ;
+    margin-top: 25vh;
+    width: 40%vw;
+    border-radius: 5px;
+}
+.row{
+    margin: 0.5vh;
+}
+button{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+}
+#input{
+    padding: 10px 0px;
+    font-size: 20px;
+}
